@@ -1,0 +1,22 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dotenv: ^16.0.3
+  pnpm: ^7.22.0
+
+dependencies:
+  dotenv: 16.0.3
+  pnpm: 7.22.0
+
+packages:
+
+  /dotenv/16.0.3:
+    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
+    engines: {node: '>=12'}
+    dev: false
+
+  /pnpm/7.22.0:
+    resolution: {integrity: sha512-dkhne1O1ktNz/Cn/GZU5wnjhP/aNEfmJGW5UdILyDnptgw84jauOf2Mk5jTe3gp4OZWZN1szcBrjyOZ7Uxxilw==}
+    engines: {node: '>=14.6'}
+    hasBin: true
+    dev: false

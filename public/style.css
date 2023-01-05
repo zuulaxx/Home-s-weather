@@ -1,0 +1,13 @@
+body {
+    background-image: url("/public/img/gal.png");
+    background-position: 10000px 1080px;
+    color: white;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 25px;
+}
