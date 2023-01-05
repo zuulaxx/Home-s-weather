@@ -1,0 +1,11 @@
+Penser à :
+
+- Faire le site de ma map méthéo
+- Créer un système de recherche de ville (avec un systeme de sugestion de ville) 
+- Créer un système de géolocalisation
+- Ajouter des images pour la méthéo
+- Si besoin ajouter un système pour voir la méthéo de J+0 à J+7
+- Ajouter un fond personnalisée au site en fonction de Jour/Nuit (Puis en fonction de la méthéo si besoin (nuageux, pluvieux etc...))
+- Peut-être ajouter un système de prévision a la journée si besoin
+- Si reste du temps, ajouter un globe en 3D avec rotation où on peut voir les nuages et le cycle jour nuit (si possible la méthéo où il pleut par ex...)
+- Créer un nom de domaine sur freenom puis cloudfare
